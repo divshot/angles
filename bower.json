@@ -17,6 +17,6 @@
     "libs/Chart.js"
   ],
   "dependencies": {
-    "chartjs": "1.0.1-beta.4"
+    "chartjs": "git://github.com/divshot/Chart.js.git#divshot"
   }
 }
